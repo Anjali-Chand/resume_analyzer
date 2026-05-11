@@ -1,1 +1,1 @@
-# resume_analyzer_usingAI
+# AI_resume_analyzer
